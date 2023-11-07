@@ -6,7 +6,7 @@ import {
   SelectChangeEvent,
 } from "@mui/material";
 
-import { ISelectProps } from "../types";
+import { ISelectProps } from "../Form/types";
 import { UseGlobalContext } from "@/app/Context/store";
 
 export default function SelectInput({
